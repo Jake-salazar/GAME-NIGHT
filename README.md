@@ -1,1 +1,2 @@
-# GAME-NIGHT
+# GAME-NIGHT HACKS FOR ADMINS
+#----------------------------------------
