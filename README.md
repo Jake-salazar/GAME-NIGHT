@@ -41,7 +41,7 @@ option _THIS ONLY WORKS IF YOU ARE THE MAIN HOST_ so make sure you get permissio
 ![BREAKOUT ROOMS2 ](https://s3.amazonaws.com/zoom-support-cdn/images/en-us/desktop/generic/breakout-rooms-options.png)
 
 ### Once you're done CLICK CREATE BREAKOUT ROOMS 
-![Breakout rooms_3] (https://assets.zoom.us/images/en-us/desktop/generic/breakout-room-joining-breakout-rooms.png)
+![Breakout_rooms3] (https://assets.zoom.us/images/en-us/desktop/generic/breakout-room-joining-breakout-rooms.png)
 Then lilipat na sila sa breakout rooms nila
 
 
