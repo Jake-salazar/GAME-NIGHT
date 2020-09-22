@@ -5,13 +5,18 @@ You can utilized different applications to assign each invite to a specific grou
 
 ### 1.A Turn your list into a table so its easy to see which person belongs to a group: 
 EXAMPLE: 
-1. Jacob           8. Alyanna
-2. Diane           9. Jazmine
-3. Claire          10. Darlene
-4. Kyle            11. James
-5. Reig            12. John
+1. Jacob   
+2. Diane   
+3. Claire      
+4. Kyle           
+5. Reig            
 6. Gabbi 
 7. Shannel
+8. Alyanna
+9. Jazmine
+10. Darlene
+11. James
+12. John
 
 ### Convert it into 
 
@@ -41,7 +46,7 @@ option _THIS ONLY WORKS IF YOU ARE THE MAIN HOST_ so make sure you get permissio
 ![BREAKOUT ROOMS2 ](https://s3.amazonaws.com/zoom-support-cdn/images/en-us/desktop/generic/breakout-rooms-options.png)
 
 ### Once you're done CLICK CREATE BREAKOUT ROOMS 
-![Breakout_rooms3] (https://assets.zoom.us/images/en-us/desktop/generic/breakout-room-joining-breakout-rooms.png)
+![BREAKOUT ROOMS2ss ](https://assets.zoom.us/images/en-us/desktop/generic/breakout-room-joining-breakout-rooms.png)
 Then lilipat na sila sa breakout rooms nila
 
 
