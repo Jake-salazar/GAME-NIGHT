@@ -3,7 +3,7 @@
 You can utilized different applications to assign each invite to a specific group,
 #note that you only have to group people who don't have a group yet / VIPS
 
-### 1.A Turn your list into a table so its easy to see which person belongs to a group: 
+### 1.A Turn your list into a table so its easy to see which person belongs to which group: 
 EXAMPLE: 
 1. Jacob   
 2. Diane   
