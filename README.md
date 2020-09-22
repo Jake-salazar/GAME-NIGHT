@@ -47,8 +47,12 @@ option _THIS ONLY WORKS IF YOU ARE THE MAIN HOST_ so make sure you get permissio
 
 ### Once you're done CLICK CREATE BREAKOUT ROOMS 
 ![BREAKOUT ROOMS2ss ](https://assets.zoom.us/images/en-us/desktop/generic/breakout-room-joining-breakout-rooms.png)
-Then lilipat na sila sa breakout rooms nila
 
+## 3. Zoom Guidelines by the Admin
+### 1. Encourage them to open their cams
+### 2. Mute their unless encouraged to unmute
+### 3. Chatbox Rule: Don't flood the chatbox
+### 4. Most important RULE: Have Fun <3 
 
 
 
