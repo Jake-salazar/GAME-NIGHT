@@ -39,13 +39,13 @@ option _THIS ONLY WORKS IF YOU ARE THE MAIN HOST_ so make sure you get permissio
 ![BREAKOUT ROOMS ](https://assets.zoom.us/images/en-us/desktop/generic/create-breakout-rooms.png)
 #### YOU CAN ALWAYS MAKE THE BREAKOUT ROOMS BEFORE HAND :)) and rename the breakout rooms name to their OG group name
 
-#### add them manually in the breakour rooms syempre 
+#### 2.A add them manually in the breakour rooms syempre 
 ![BREAKOUT ROOMS 3](https://assets.zoom.us/images/en-us/desktop/generic/breakout-rooms-assign-participants.png)
 
-#### Also make sure to set the time for the games to be safe make it 1 hour and 30 mins
+#### 2.B Also make sure to set the time for the games to be safe make it 1 hour and 30 mins
 ![BREAKOUT ROOMS2 ](https://s3.amazonaws.com/zoom-support-cdn/images/en-us/desktop/generic/breakout-rooms-options.png)
 
-### Once you're done CLICK CREATE BREAKOUT ROOMS 
+### 2.C Once you're done CLICK CREATE BREAKOUT ROOMS 
 ![BREAKOUT ROOMS2ss ](https://assets.zoom.us/images/en-us/desktop/generic/breakout-room-joining-breakout-rooms.png)
 
 ## 3. Zoom Guidelines by the Admin
