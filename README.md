@@ -37,22 +37,22 @@ option _THIS ONLY WORKS IF YOU ARE THE MAIN HOST_ so make sure you get permissio
 
 ### Breakout rooms illustration
 ![BREAKOUT ROOMS ](https://assets.zoom.us/images/en-us/desktop/generic/create-breakout-rooms.png)
-## YOU CAN ALWAYS MAKE THE BREAKOUT ROOMS BEFORE HAND :)) and rename the breakout rooms name to their OG group name
+#### YOU CAN ALWAYS MAKE THE BREAKOUT ROOMS BEFORE HAND :)) and rename the breakout rooms name to their OG group name
 
-### add them manually in the breakour rooms syempre 
+#### add them manually in the breakour rooms syempre 
 ![BREAKOUT ROOMS 3](https://assets.zoom.us/images/en-us/desktop/generic/breakout-rooms-assign-participants.png)
 
-### Also make sure to set the time for the games to be safe make it 1 hour and 30 mins
+#### Also make sure to set the time for the games to be safe make it 1 hour and 30 mins
 ![BREAKOUT ROOMS2 ](https://s3.amazonaws.com/zoom-support-cdn/images/en-us/desktop/generic/breakout-rooms-options.png)
 
 ### Once you're done CLICK CREATE BREAKOUT ROOMS 
 ![BREAKOUT ROOMS2ss ](https://assets.zoom.us/images/en-us/desktop/generic/breakout-room-joining-breakout-rooms.png)
 
 ## 3. Zoom Guidelines by the Admin
-### 1. Encourage them to open their cams
-### 2. Mute their unless encouraged to unmute
-### 3. Chatbox Rule: Don't flood the chatbox
-### 4. Most important RULE: Have Fun <3 
+#### 1. Encourage them to open their cams
+#### 2. Mute their unless encouraged to unmute
+#### 3. Chatbox Rule: Don't flood the chatbox
+#### 4. Most important RULE: Have Fun <3 
 
 
 
