@@ -5,17 +5,20 @@ You can utilized different applications to assign each invite to a specific grou
 
 ### 1.A Turn your list into a table so its easy to see which person belongs to a group: 
 EXAMPLE: 
-1. Jacob     8. Alyanna
-2. Diane     9. Jazmine
-3. Claire    10. Darlene
-4. Kyle 
-5. Reig
+1. Jacob           8. Alyanna
+2. Diane           9. Jazmine
+3. Claire          10. Darlene
+4. Kyle            11. James
+5. Reig            12. John
 6. Gabbi 
 7. Shannel
 
 ### Convert it into 
 
-|TEAM DARLENE | TEAM JAZMINE | TEAM SHANNEL |
+|TEAM ALYANNA | TEAM JAZMINE | TEAM SHANNEL |
 | ----------  | -----------  | ------------ |
+| Jacob       | Kyle         | Reig         |
+| Diane       | Darlene      | Claire       |
+| Gabbi       | Peter        | James        |
 
 
