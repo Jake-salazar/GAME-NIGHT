@@ -31,6 +31,6 @@ Once people are joining the breakout room you can start making the rooms by clic
 option _THIS ONLY WORKS IF YOU ARE THE MAIN HOST_ so make sure you get permission first.
 
 ## Breakout rooms illustration
-![BREAKOUT ROOMS ](https://support.zoom.us/hc/en-us/articles/206476313-Managing-Breakout-Rooms)
+![BREAKOUT ROOMS ](https://assets.zoom.us/images/en-us/desktop/generic/create-breakout-rooms.png)
 
 
